@@ -1,0 +1,8 @@
+# Train/val
+train: C:\Users\30430\Desktop\文件夹\yolov10-main\datasets\SafetyHelmetWearingDataset\images\train
+val: C:\Users\30430\Desktop\文件夹\yolov10-main\datasets\SafetyHelmetWearingDataset\images\val
+test: # test images
+
+# Classes
+nc: 2  # number of classes
+names: ['helmet','nohelmet']
